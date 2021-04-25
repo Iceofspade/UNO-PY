@@ -1,0 +1,326 @@
+[
+    {
+        "name": "yellow_9",
+        "color": "yellow",
+        "sign": 9,
+        "ID": 1
+    },
+    {
+        "name": "yellow_8",
+        "color": "yellow",
+        "sign": 8,
+        "ID": 2
+    },
+    {
+        "name": "yellow_7",
+        "color": "yellow",
+        "sign": 7,
+        "ID": 3
+    },
+    {
+        "name": "yellow_6",
+        "color": "yellow",
+        "sign": 6,
+        "ID": 4
+    },
+    {
+        "name": "yellow_5",
+        "color": "yellow",
+        "sign": 5,
+        "ID": 5
+    },
+    {
+        "name": "yellow_4",
+        "color": "yellow",
+        "sign": 4,
+        "ID": 6
+    },
+    {
+        "name": "yellow_3",
+        "color": "yellow",
+        "sign": 3,
+        "ID": 7
+    },
+    {
+        "name": "yellow_2",
+        "color": "yellow",
+        "sign": 2,
+        "ID": 8
+    },
+    {
+        "name": "yellow_1",
+        "color": "yellow",
+        "sign": 1,
+        "ID": 9
+    },
+    {
+        "name": "yellow_0",
+        "color": "yellow",
+        "sign": 0,
+        "ID": 10
+    },
+    {
+        "name": "yellow_skip",
+        "color": "yellow",
+        "sign": "skip",
+        "ID": 11
+    },
+    {
+        "name": "yellow_reverse",
+        "color": "yellow",
+        "sign": "reverse",
+        "ID": 12
+    },
+    {
+        "name": "yellow_draw2",
+        "color": "yellow",
+        "sign": "draw2",
+        "ID": 13
+    },
+    {
+        "name": "red_9",
+        "color": "red",
+        "sign": 9,
+        "ID": 14
+    },
+    {
+        "name": "red_8",
+        "color": "red",
+        "sign": 8,
+        "ID": 15
+    },
+    {
+        "name": "red_7",
+        "color": "red",
+        "sign": 7,
+        "ID": 16
+    },
+    {
+        "name": "red_6",
+        "color": "red",
+        "sign": 6,
+        "ID": 17
+    },
+    {
+        "name": "red_5",
+        "color": "red",
+        "sign": 5,
+        "ID": 18
+    },
+    {
+        "name": "red_4",
+        "color": "red",
+        "sign": 4,
+        "ID": 19
+    },
+    {
+        "name": "red_3",
+        "color": "red",
+        "sign": 3,
+        "ID": 20
+    },
+    {
+        "name": "red_2",
+        "color": "red",
+        "sign": 2,
+        "ID": 21
+    },
+    {
+        "name": "red_1",
+        "color": "red",
+        "sign": 1,
+        "ID": 22
+    },
+    {
+        "name": "red_0",
+        "color": "red",
+        "sign": 0,
+        "ID": 23
+    },
+    {
+        "name": "red_skip",
+        "color": "red",
+        "sign": "skip",
+        "ID": 24
+    },
+    {
+        "name": "red_reverse",
+        "color": "red",
+        "sign": "reverse",
+        "ID": 25
+    },
+    {
+        "name": "red_draw2",
+        "color": "red",
+        "sign": "draw2",
+        "ID": 26
+    },
+    {
+        "name": "green_9",
+        "color": "green",
+        "sign": 9,
+        "ID": 27
+    },
+    {
+        "name": "green_8",
+        "color": "green",
+        "sign": 8,
+        "ID": 28
+    },
+    {
+        "name": "green_7",
+        "color": "green",
+        "sign": 7,
+        "ID": 29
+    },
+    {
+        "name": "green_6",
+        "color": "green",
+        "sign": 6,
+        "ID": 30
+    },
+    {
+        "name": "green_5",
+        "color": "green",
+        "sign": 5,
+        "ID": 31
+    },
+    {
+        "name": "green_4",
+        "color": "green",
+        "sign": 4,
+        "ID": 32
+    },
+    {
+        "name": "green_3",
+        "color": "green",
+        "sign": 3,
+        "ID": 33
+    },
+    {
+        "name": "green_2",
+        "color": "green",
+        "sign": 2,
+        "ID": 34
+    },
+    {
+        "name": "green_1",
+        "color": "green",
+        "sign": 1,
+        "ID": 35
+    },
+    {
+        "name": "green_0",
+        "color": "green",
+        "sign": 0,
+        "ID": 36
+    },
+    {
+        "name": "green_skip",
+        "color": "green",
+        "sign": "skip",
+        "ID": 37
+    },
+    {
+        "name": "green_reverse",
+        "color": "green",
+        "sign": "reverse",
+        "ID": 38
+    },
+    {
+        "name": "green_draw2",
+        "color": "green",
+        "sign": "draw2",
+        "ID": 39
+    },
+    {
+        "name": "blue_9",
+        "color": "blue",
+        "sign": 9,
+        "ID": 40
+    },
+    {
+        "name": "blue_8",
+        "color": "blue",
+        "sign": 8,
+        "ID": 41
+    },
+    {
+        "name": "blue_7",
+        "color": "blue",
+        "sign": 7,
+        "ID": 42
+    },
+    {
+        "name": "blue_6",
+        "color": "blue",
+        "sign": 6,
+        "ID": 43
+    },
+    {
+        "name": "blue_5",
+        "color": "blue",
+        "sign": 5,
+        "ID": 44
+    },
+    {
+        "name": "blue_4",
+        "color": "blue",
+        "sign": 4,
+        "ID": 45
+    },
+    {
+        "name": "blue_3",
+        "color": "blue",
+        "sign": 3,
+        "ID": 46
+    },
+    {
+        "name": "blue_2",
+        "color": "blue",
+        "sign": 2,
+        "ID": 47
+    },
+    {
+        "name": "blue_1",
+        "color": "blue",
+        "sign": 1,
+        "ID": 48
+    },
+    {
+        "name": "blue_0",
+        "color": "blue",
+        "sign": 0,
+        "ID": 49
+    },
+    {
+        "name": "blue_skip",
+        "color": "blue",
+        "sign": "skip",
+        "ID": 50
+    },
+    {
+        "name": "blue_reverse",
+        "color": "blue",
+        "sign": "reverse",
+        "ID": 51
+    },
+    {
+        "name": "blue_draw2",
+        "color": "blue",
+        "sign": "draw2",
+        "ID": 52
+    },
+    {
+        "name": "wild",
+        "color": null,
+        "sign": "wild",
+        "ID": 53
+    },
+    {
+        "name": "draw4",
+        "color": null,
+        "sign": "draw4",
+        "ID": 54
+    }
+]
